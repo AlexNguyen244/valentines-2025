@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/valentines-2025/static/css/main.46a86dfd.css",
+    "main.js": "/valentines-2025/static/js/main.bb94d707.js",
+    "static/media/image2.png": "/valentines-2025/static/media/image2.3ed8157249d654f55e2b.png",
+    "static/media/image4.png": "/valentines-2025/static/media/image4.bdc53c24b4a681919513.png",
+    "static/media/image5.png": "/valentines-2025/static/media/image5.ee2533e030ddd90f0633.png",
+    "static/media/image3.png": "/valentines-2025/static/media/image3.67ca4a82b9852a6e4461.png",
+    "static/media/image1.png": "/valentines-2025/static/media/image1.654b4f87b9dd5d05170f.png",
+    "static/media/cat4.gif": "/valentines-2025/static/media/cat4.59f0b31e86eb98fcd7aa.gif",
+    "static/media/cat2.gif": "/valentines-2025/static/media/cat2.e98fd1c1d5215cd22445.gif",
+    "static/media/cat5.gif": "/valentines-2025/static/media/cat5.8819f67d69cc4dd1d369.gif",
+    "static/media/cat1.gif": "/valentines-2025/static/media/cat1.6bf79eaa72bf63a06537.gif",
+    "static/media/cat3.gif": "/valentines-2025/static/media/cat3.1dddaf4ed7ae8a9e59fc.gif",
+    "static/media/background.png": "/valentines-2025/static/media/background.49db0fc341eee242decd.png",
+    "index.html": "/valentines-2025/index.html",
+    "main.46a86dfd.css.map": "/valentines-2025/static/css/main.46a86dfd.css.map",
+    "main.bb94d707.js.map": "/valentines-2025/static/js/main.bb94d707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46a86dfd.css",
+    "static/js/main.bb94d707.js"
+  ]
+}
