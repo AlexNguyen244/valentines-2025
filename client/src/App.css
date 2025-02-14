@@ -1,0 +1,45 @@
+.box {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: -40px;
+}
+
+.image {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: red;
+  border-color: red;
+  color: white;
+  font-size: 25px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.button-1:hover {
+  background-color: darkred;
+  border-color: darkred;
+}
+
+.yes {
+  margin-right: 10px;
+}
+
+.image-clear {
+  height: 400px;
+  width: 400px;
+  object-fit: cover;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.image-yes {
+  object-fit: cover;
+}
