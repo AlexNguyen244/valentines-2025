@@ -5,7 +5,6 @@
   transform: translate(-50%, -50%);
   text-align: center;
   margin-top: -40px;
-  padding: 30px 30px;
 }
 
 .image {
@@ -43,4 +42,31 @@
 
 .image-yes {
   object-fit: cover;
+}
+
+@media screen and (max-width: 500px) {
+  .image {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    width: 80vw;
+    height: 80vw;
+  }
+
+  .image-clear {
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    background-color: white;
+    border-radius: 10px;
+    width: 80vw;
+    height: 80vw;
+  }
+
+  .image-yes {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
 }
