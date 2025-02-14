@@ -4,7 +4,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  margin-top: -40px;
 }
 
 .image {
@@ -46,27 +45,16 @@
 
 @media screen and (max-width: 500px) {
   .image {
-    height: 400px;
-    width: 400px;
-    object-fit: cover;
-    border-radius: 10px;
-    width: 80vw;
-    height: 80vw;
+    height: 85vw;
+    width: 85vw;
   }
 
   .image-clear {
-    height: 400px;
-    width: 400px;
-    object-fit: cover;
-    background-color: white;
-    border-radius: 10px;
-    width: 80vw;
-    height: 80vw;
+    height: 85vw;
+    width: 85vw;
   }
 
   .image-yes {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
+    width: 350px;
   }
 }
